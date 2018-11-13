@@ -38,7 +38,7 @@ public class Person {
 	}
 
     // TODO 7. Add getter method for wilder attribute
-	public boolean getWilder() {
+	public boolean isWilder() {
 		return this.wilder;
 	}
 
